@@ -1,0 +1,8 @@
+.env
+*.sqlite3
+__pycache__/
+*.pyc
+.venv/
+powerbi/**/.pbi/localSettings.json
+powerbi/**/.pbi/cache.abf
+*.log
